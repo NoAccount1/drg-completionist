@@ -21,6 +21,7 @@ export default function useGetPickaxePartsFromSaveFile(): (
             handle
             shaft
             pommel
+            paint_job
           }
         }
       }
